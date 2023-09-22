@@ -1,0 +1,29 @@
+Script started on Thu Sep 21 17:55:34 2023
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                             [0m[27m[24m[Juser@AfoDy-2 RESOURCES % [K[?2004hnnode script[?2004l
+Pick an object among Rock, Paper, and Scissors: [s[2K[0GPick an object among Rock, Paper, and Scissors: r[50G[s[2K[0GPick an object among Rock, Paper, and Scissors: ro[51G[s[2K[0GPick an object among Rock, Paper, and Scissors: roc[52G[s[2K[0GPick an object among Rock, Paper, and Scissors: rock[53G
+You picked rock
+Computer picked Scissors
+Rock crushes scissors, well done, you win!
+Round: 1, Player-score 1 :  0 Computer-score
+Pick an object among Rock, Paper, and Scissors: [s[2K[0GPick an object among Rock, Paper, and Scissors: r[50G[s[2K[0GPick an object among Rock, Paper, and Scissors: ro[51G[s[2K[0GPick an object among Rock, Paper, and Scissors: roc[52G[s[2K[0GPick an object among Rock, Paper, and Scissors: rock[53G
+You picked rock
+Computer picked Scissors
+Rock crushes scissors, well done, you win!
+Round: 2, Player-score 2 :  0 Computer-score
+Pick an object among Rock, Paper, and Scissors: [s[2K[0GPick an object among Rock, Paper, and Scissors: r[50G[s[2K[0GPick an object among Rock, Paper, and Scissors: ro[51G[s[2K[0GPick an object among Rock, Paper, and Scissors: roi[52G[s[2K[0GPick an object among Rock, Paper, and Scissors: roic[53G[s[2K[0GPick an object among Rock, Paper, and Scissors: roick[54G[2D[s[2K[0GPick an object among Rock, Paper, and Scissors: roic[53G[2D[s[2K[0GPick an object among Rock, Paper, and Scissors: roi[52G[2D[s[2K[0GPick an object among Rock, Paper, and Scissors: ro[51G[2D[s[2K[0GPick an object among Rock, Paper, and Scissors: r[50G[s[2K[0GPick an object among Rock, Paper, and Scissors: ro[51G[s[2K[0GPick an object among Rock, Paper, and Scissors: roc[52G[s[2K[0GPick an object among Rock, Paper, and Scissors: rock[53G
+You picked rock
+Computer picked Paper
+Aww... paper covers rock, computer wins!
+Round: 3, Player-score 2 :  1 Computer-score
+Pick an object among Rock, Paper, and Scissors: [s[2K[0GPick an object among Rock, Paper, and Scissors: f[50G[s[2K[0GPick an object among Rock, Paper, and Scissors: fo[51G[s[2K[0GPick an object among Rock, Paper, and Scissors: fos[52G[s[2K[0GPick an object among Rock, Paper, and Scissors: fosj[53G[s[2K[0GPick an object among Rock, Paper, and Scissors: fosjf[54G
+Invalid selection
+Computer picked Scissors
+Please, enter a valid selection among Rock, Paper, and Scissors
+Round: 4, Player-score 2 :  1 Computer-score
+Pick an object among Rock, Paper, and Scissors: [s[2K[0GPick an object among Rock, Paper, and Scissors: r[50G[s[2K[0GPick an object among Rock, Paper, and Scissors: ro[51G[s[2K[0GPick an object among Rock, Paper, and Scissors: roc[52G[s[2K[0GPick an object among Rock, Paper, and Scissors: rock[53G
+You picked rock
+Computer picked Scissors
+Rock crushes scissors, well done, you win!
+Round: 5, Player-score 3 :  1 Computer-score
+Amazing! You win!!!
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                             [0m[27m[24m[Juser@AfoDy-2 RESOURCES % [K[?2004h
