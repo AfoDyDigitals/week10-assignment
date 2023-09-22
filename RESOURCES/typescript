@@ -1,29 +1,83 @@
-Script started on Thu Sep 21 17:55:34 2023
-[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                             [0m[27m[24m[Juser@AfoDy-2 RESOURCES % [K[?2004hnnode script[?2004l
+Script started on Thu Sep 21 20:30:07 2023
+[1m[7m%[27m[1m[0m                                                                                                                                       [0m[27m[24m[Juser@AfoDy-2 RESOURCES % [K[?2004hnnode script[?2004l
 Pick an object among Rock, Paper, and Scissors: [s[2K[0GPick an object among Rock, Paper, and Scissors: r[50G[s[2K[0GPick an object among Rock, Paper, and Scissors: ro[51G[s[2K[0GPick an object among Rock, Paper, and Scissors: roc[52G[s[2K[0GPick an object among Rock, Paper, and Scissors: rock[53G
-You picked rock
-Computer picked Scissors
-Rock crushes scissors, well done, you win!
-Round: 1, Player-score 1 :  0 Computer-score
-Pick an object among Rock, Paper, and Scissors: [s[2K[0GPick an object among Rock, Paper, and Scissors: r[50G[s[2K[0GPick an object among Rock, Paper, and Scissors: ro[51G[s[2K[0GPick an object among Rock, Paper, and Scissors: roc[52G[s[2K[0GPick an object among Rock, Paper, and Scissors: rock[53G
-You picked rock
-Computer picked Scissors
-Rock crushes scissors, well done, you win!
-Round: 2, Player-score 2 :  0 Computer-score
-Pick an object among Rock, Paper, and Scissors: [s[2K[0GPick an object among Rock, Paper, and Scissors: r[50G[s[2K[0GPick an object among Rock, Paper, and Scissors: ro[51G[s[2K[0GPick an object among Rock, Paper, and Scissors: roi[52G[s[2K[0GPick an object among Rock, Paper, and Scissors: roic[53G[s[2K[0GPick an object among Rock, Paper, and Scissors: roick[54G[2D[s[2K[0GPick an object among Rock, Paper, and Scissors: roic[53G[2D[s[2K[0GPick an object among Rock, Paper, and Scissors: roi[52G[2D[s[2K[0GPick an object among Rock, Paper, and Scissors: ro[51G[2D[s[2K[0GPick an object among Rock, Paper, and Scissors: r[50G[s[2K[0GPick an object among Rock, Paper, and Scissors: ro[51G[s[2K[0GPick an object among Rock, Paper, and Scissors: roc[52G[s[2K[0GPick an object among Rock, Paper, and Scissors: rock[53G
 You picked rock
 Computer picked Paper
 Aww... paper covers rock, computer wins!
-Round: 3, Player-score 2 :  1 Computer-score
-Pick an object among Rock, Paper, and Scissors: [s[2K[0GPick an object among Rock, Paper, and Scissors: f[50G[s[2K[0GPick an object among Rock, Paper, and Scissors: fo[51G[s[2K[0GPick an object among Rock, Paper, and Scissors: fos[52G[s[2K[0GPick an object among Rock, Paper, and Scissors: fosj[53G[s[2K[0GPick an object among Rock, Paper, and Scissors: fosjf[54G
+Round: 1, Player-score 0 :  1 Computer-score
+Pick an object among Rock, Paper, and Scissors: [s[2K[0GPick an object among Rock, Paper, and Scissors: c[50G[s[2K[0GPick an object among Rock, Paper, and Scissors: cl[51G[s[2K[0GPick an object among Rock, Paper, and Scissors: cle[52G[s[2K[0GPick an object among Rock, Paper, and Scissors: clea[53G[s[2K[0GPick an object among Rock, Paper, and Scissors: clear[54G
 Invalid selection
-Computer picked Scissors
+Computer picked Rock
 Please, enter a valid selection among Rock, Paper, and Scissors
-Round: 4, Player-score 2 :  1 Computer-score
+Round: 2, Player-score 0 :  1 Computer-score
+Pick an object among Rock, Paper, and Scissors: [s[2K[0GPick an object among Rock, Paper, and Scissors: r[50G[s[2K[0GPick an object among Rock, Paper, and Scissors: ro[51G[s[2K[0GPick an object among Rock, Paper, and Scissors: roc[52G[s[2K[0GPick an object among Rock, Paper, and Scissors: rock[53G[s[2K[0GPick an object among Rock, Paper, and Scissors: rock\[54G[2D[s[2K[0GPick an object among Rock, Paper, and Scissors: rock[53G
+You picked rock
+Computer picked Paper
+Aww... paper covers rock, computer wins!
+Round: 3, Player-score 0 :  2 Computer-score
+Pick an object among Rock, Paper, and Scissors: [s[2K[0GPick an object among Rock, Paper, and Scissors: r[50G[s[2K[0GPick an object among Rock, Paper, and Scissors: ro[51G[s[2K[0GPick an object among Rock, Paper, and Scissors: roc[52G[s[2K[0GPick an object among Rock, Paper, and Scissors: rock[53G[s[2K[0GPick an object among Rock, Paper, and Scissors: rock\[54G[2D[s[2K[0GPick an object among Rock, Paper, and Scissors: rock[53G
+You picked rock
+Computer picked Paper
+Aww... paper covers rock, computer wins!
+Round: 4, Player-score 0 :  3 Computer-score
 Pick an object among Rock, Paper, and Scissors: [s[2K[0GPick an object among Rock, Paper, and Scissors: r[50G[s[2K[0GPick an object among Rock, Paper, and Scissors: ro[51G[s[2K[0GPick an object among Rock, Paper, and Scissors: roc[52G[s[2K[0GPick an object among Rock, Paper, and Scissors: rock[53G
 You picked rock
 Computer picked Scissors
 Rock crushes scissors, well done, you win!
-Round: 5, Player-score 3 :  1 Computer-score
-Amazing! You win!!!
-[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                             [0m[27m[24m[Juser@AfoDy-2 RESOURCES % [K[?2004h
+Round: 5, Player-score 1 :  3 Computer-score
+Oops! You lose! Better luck next time!
+[1m[7m%[27m[1m[0m                                                                                                                                       [0m[27m[24m[Juser@AfoDy-2 RESOURCES % [K[?2004hr cclear[?2004l
+[H[2J[1m[7m%[27m[1m[0m                                                                                                                                       [0m[27m[24m[Juser@AfoDy-2 RESOURCES % [K[?2004hnnode script[?2004l
+(node:7538) Warning: To load an ES module, set "type": "module" in the package.json or use the .mjs extension.
+(Use `node --trace-warnings ...` to show where the warning was created)
+/Users/AfoDy/Desktop/FRONT END PROJECTS/week10-assignment/RESOURCES/script.js:1
+import { getComputerChoice } from "./getComputerChoice";
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+[90m    at internalCompileFunction (node:internal/vm:73:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1178:20)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1220:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1119:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:960:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.17.1
+[1m[7m%[27m[1m[0m                                                                                                                                       [0m[27m[24m[Juser@AfoDy-2 RESOURCES % [K[?2004hnnode script[?2004l
+(node:7591) Warning: To load an ES module, set "type": "module" in the package.json or use the .mjs extension.
+(Use `node --trace-warnings ...` to show where the warning was created)
+/Users/AfoDy/Desktop/FRONT END PROJECTS/week10-assignment/RESOURCES/script.js:1
+import { getComputerChoice } from "./getComputerChoice.js";
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+[90m    at internalCompileFunction (node:internal/vm:73:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1178:20)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1220:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1119:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:960:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.17.1
+[1m[7m%[27m[1m[0m                                                                                                                                       [0m[27m[24m[Juser@AfoDy-2 RESOURCES % [K[?2004hggit status[?2004l
+On branch development
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   script.js[m
+	[31mmodified:   style.css[m
+	[31mmodified:   typescript[m
+	[31mmodified:   ../index.html[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mgameRule.js[m
+	[31mgetComputerChoice.js[m
+	[31mgetUserChoice.js[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[1m[7m%[27m[1m[0m                                                                                                                                       [0m[27m[24m[Juser@AfoDy-2 RESOURCES % [K[?2004h

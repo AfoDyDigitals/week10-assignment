@@ -39,3 +39,7 @@ p {
     border: none;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.btn:hover {
+    background-color: azure;
+}
