@@ -1,0 +1,41 @@
+.background {
+    background-image: url(./Images/maria-lupan-5W7DZ_A-ywM-unsplash.jpg);
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.476);
+    padding: 20px;
+    display:grid;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.btn {
+    background-color: rgb(241, 170, 3);
+    width: 100px;
+    height: 44px;
+    border-radius: 10px;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
