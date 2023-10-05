@@ -1,7 +1,6 @@
 export default function getUserChoice(){
     let playerInput = prompt(
-        "Pick an object among Rock, Paper, and Scissors: "
-        ).toLowerCase();
+        "Pick an object among Rock, Paper, and Scissors: ".toLowerCase());
     
     if (playerInput == "rock") {
         console.log("You picked rock");

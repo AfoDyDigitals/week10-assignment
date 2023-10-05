@@ -80,4 +80,76 @@ Untracked files:
 	[31mgetUserChoice.js[m
 
 no changes added to commit (use "git add" and/or "git commit -a")
-[1m[7m%[27m[1m[0m                                                                                                                                       [0m[27m[24m[Juser@AfoDy-2 RESOURCES % [K[?2004h
+[1m[7m%[27m[1m[0m                                                                                                                                       [0m[27m[24m[Juser@AfoDy-2 RESOURCES % [K[?2004hggit add .[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                       [0m[27m[24m[Juser@AfoDy-2 RESOURCES % [K[?2004hggit commit -m "refactor javascript fi             functions and split them into files linking them using modules"[?2004l
+[development dc3c3a6] refactor functions and split them into files linking them using modules
+ 6 files changed, 182 insertions(+), 122 deletions(-)
+ create mode 100644 RESOURCES/gameRule.js
+ create mode 100644 RESOURCES/getComputerChoice.js
+ create mode 100644 RESOURCES/getUserChoice.js
+ rewrite RESOURCES/script.js (68%)
+[1m[7m%[27m[1m[0m                                                                                                                                       [0m[27m[24m[Juser@AfoDy-2 RESOURCES % [K[?2004hggit status[?2004l
+On branch development
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   typescript[m
+	[31mmodified:   ../index.html[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[1m[7m%[27m[1m[0m                                                                                                                                       [0m[27m[24m[Juser@AfoDy-2 RESOURCES % [K[?2004hnnode script[?2004l
+(node:7890) Warning: To load an ES module, set "type": "module" in the package.json or use the .mjs extension.
+(Use `node --trace-warnings ...` to show where the warning was created)
+/Users/AfoDy/Desktop/FRONT END PROJECTS/week10-assignment/RESOURCES/script.js:1
+import gameRule from "./gameRule.js";
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+[90m    at internalCompileFunction (node:internal/vm:73:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1178:20)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1220:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1119:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:960:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.17.1
+[1m[7m%[27m[1m[0m                                                                                                                                       [0m[27m[24m[Juser@AfoDy-2 RESOURCES % [K[?2004hcclear[?2004l
+[H[2J[1m[7m%[27m[1m[0m                                                                                                                                       [0m[27m[24m[Juser@AfoDy-2 RESOURCES % [K[?2004hnnode script[?2004l
+(node:7918) Warning: To load an ES module, set "type": "module" in the package.json or use the .mjs extension.
+(Use `node --trace-warnings ...` to show where the warning was created)
+/Users/AfoDy/Desktop/FRONT END PROJECTS/week10-assignment/RESOURCES/script.js:2
+import gameRule from "./gameRule.js";
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+[90m    at internalCompileFunction (node:internal/vm:73:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1178:20)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1220:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1119:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:960:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.17.1
+[1m[7m%[27m[1m[0m                                                                                                                                       [0m[27m[24m[Juser@AfoDy-2 RESOURCES % [K[?2004hnnode script[?2004l
+(node:8055) Warning: To load an ES module, set "type": "module" in the package.json or use the .mjs extension.
+(Use `node --trace-warnings ...` to show where the warning was created)
+/Users/AfoDy/Desktop/FRONT END PROJECTS/week10-assignment/RESOURCES/script.js:2
+import gameRule from "./gameRule.js";
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+[90m    at internalCompileFunction (node:internal/vm:73:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1178:20)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1220:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1119:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:960:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.17.1
+[1m[7m%[27m[1m[0m                                                                                                                                       [0m[27m[24m[Juser@AfoDy-2 RESOURCES % [K[?2004hcclear

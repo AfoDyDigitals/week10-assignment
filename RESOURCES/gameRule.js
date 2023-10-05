@@ -1,9 +1,9 @@
 import getComputerChoice from "./getComputerChoice.js";
 import getUserChoice from "./getUserChoice.js";
 
-export default function gameRule(){
-    let playerSelection = getUserChoice();
-    let computerSelection = getComputerChoice();
+export default function gameRule(playerSelection, computerSelection){
+    // let playerSelection = getUserChoice();
+    // let computerSelection = getComputerChoice();
 
     if (playerSelection === computerSelection){
         console.log("It's a tie. Retry!");

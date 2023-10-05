@@ -1,4 +1,4 @@
-const prompt = require("prompt-sync")(); 
+
 let choices = ["Rock", "Paper", "Scissors"];
 
 export default function getComputerChoice(){
