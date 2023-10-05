@@ -58,4 +58,33 @@ function game(choice) {
     }
 }
 
+const rock = document.querySelector(".rock")
+rock.addEventListener("click", rockBtn)
+function rockBtn() {
+    game("Rock");
+};
+
+const paper = document.querySelector(".paper")
+paper.addEventListener("click", paperBtn)
+function paperBtn() {
+    game("Paper");
+};
+
+const scissors = document.querySelector(".scissors")
+scissors.addEventListener("click", function () {
+    game("Scissors");
+})
+
+const restart = document.querySelector(".btnRestart")
+restart.addEventListener("click", function () {
+    round = 0
+    playerScore = 0
+    computerScore = 0
+
+    roundName.innerHTML= `Round ${0}`;
+    scoreBoard.innerHTML = `PlayerScore: ${0} : ${0} computerScore`;
+    message.innerHTML = " "
+    compMessage.innerHTML= " "
+    result.innerHTML= ""
+})
 
