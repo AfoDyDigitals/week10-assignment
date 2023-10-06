@@ -1,0 +1,102 @@
+.background {
+    background-image: url(./Images/maria-lupan-5W7DZ_A-ywM-unsplash.jpg);
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.476);
+    padding: 20px;
+    display:grid;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.btnContainer{
+    
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.btn {
+    background-color: rgb(241, 170, 3);
+    width: 100px;
+    height: 44px;
+    border-radius: 10px;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btnRestart {
+    background-color: rgb(241, 51, 3);
+    width: 100px;
+    height: 44px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+.btn:hover {
+    background-color: azure;
+}
+
+.btnRestart:hover {
+    background-color: azure;
+    color: black;
+}
+
+.test {
+    background-color: white;
+    color: black !important;
+}
+
+.message {
+    text-align: center;
+}
+
+.compMessage {
+    text-align: center;
+}
+
+hr {
+    background-color: black;
+    width: 100%;
+}
+
+.result {
+    text-align: center;
+}
+
+.scoresheet {
+    background-color: rgb(241, 170, 3);
+    text-align: center;
+}
+
+.roundName {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    padding: 5px 50px;
+}

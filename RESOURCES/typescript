@@ -1,0 +1,155 @@
+Script started on Thu Sep 21 20:30:07 2023
+[1m[7m%[27m[1m[0m                                                                                                                                       [0m[27m[24m[Juser@AfoDy-2 RESOURCES % [K[?2004hnnode script[?2004l
+Pick an object among Rock, Paper, and Scissors: [s[2K[0GPick an object among Rock, Paper, and Scissors: r[50G[s[2K[0GPick an object among Rock, Paper, and Scissors: ro[51G[s[2K[0GPick an object among Rock, Paper, and Scissors: roc[52G[s[2K[0GPick an object among Rock, Paper, and Scissors: rock[53G
+You picked rock
+Computer picked Paper
+Aww... paper covers rock, computer wins!
+Round: 1, Player-score 0 :  1 Computer-score
+Pick an object among Rock, Paper, and Scissors: [s[2K[0GPick an object among Rock, Paper, and Scissors: c[50G[s[2K[0GPick an object among Rock, Paper, and Scissors: cl[51G[s[2K[0GPick an object among Rock, Paper, and Scissors: cle[52G[s[2K[0GPick an object among Rock, Paper, and Scissors: clea[53G[s[2K[0GPick an object among Rock, Paper, and Scissors: clear[54G
+Invalid selection
+Computer picked Rock
+Please, enter a valid selection among Rock, Paper, and Scissors
+Round: 2, Player-score 0 :  1 Computer-score
+Pick an object among Rock, Paper, and Scissors: [s[2K[0GPick an object among Rock, Paper, and Scissors: r[50G[s[2K[0GPick an object among Rock, Paper, and Scissors: ro[51G[s[2K[0GPick an object among Rock, Paper, and Scissors: roc[52G[s[2K[0GPick an object among Rock, Paper, and Scissors: rock[53G[s[2K[0GPick an object among Rock, Paper, and Scissors: rock\[54G[2D[s[2K[0GPick an object among Rock, Paper, and Scissors: rock[53G
+You picked rock
+Computer picked Paper
+Aww... paper covers rock, computer wins!
+Round: 3, Player-score 0 :  2 Computer-score
+Pick an object among Rock, Paper, and Scissors: [s[2K[0GPick an object among Rock, Paper, and Scissors: r[50G[s[2K[0GPick an object among Rock, Paper, and Scissors: ro[51G[s[2K[0GPick an object among Rock, Paper, and Scissors: roc[52G[s[2K[0GPick an object among Rock, Paper, and Scissors: rock[53G[s[2K[0GPick an object among Rock, Paper, and Scissors: rock\[54G[2D[s[2K[0GPick an object among Rock, Paper, and Scissors: rock[53G
+You picked rock
+Computer picked Paper
+Aww... paper covers rock, computer wins!
+Round: 4, Player-score 0 :  3 Computer-score
+Pick an object among Rock, Paper, and Scissors: [s[2K[0GPick an object among Rock, Paper, and Scissors: r[50G[s[2K[0GPick an object among Rock, Paper, and Scissors: ro[51G[s[2K[0GPick an object among Rock, Paper, and Scissors: roc[52G[s[2K[0GPick an object among Rock, Paper, and Scissors: rock[53G
+You picked rock
+Computer picked Scissors
+Rock crushes scissors, well done, you win!
+Round: 5, Player-score 1 :  3 Computer-score
+Oops! You lose! Better luck next time!
+[1m[7m%[27m[1m[0m                                                                                                                                       [0m[27m[24m[Juser@AfoDy-2 RESOURCES % [K[?2004hr cclear[?2004l
+[H[2J[1m[7m%[27m[1m[0m                                                                                                                                       [0m[27m[24m[Juser@AfoDy-2 RESOURCES % [K[?2004hnnode script[?2004l
+(node:7538) Warning: To load an ES module, set "type": "module" in the package.json or use the .mjs extension.
+(Use `node --trace-warnings ...` to show where the warning was created)
+/Users/AfoDy/Desktop/FRONT END PROJECTS/week10-assignment/RESOURCES/script.js:1
+import { getComputerChoice } from "./getComputerChoice";
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+[90m    at internalCompileFunction (node:internal/vm:73:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1178:20)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1220:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1119:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:960:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.17.1
+[1m[7m%[27m[1m[0m                                                                                                                                       [0m[27m[24m[Juser@AfoDy-2 RESOURCES % [K[?2004hnnode script[?2004l
+(node:7591) Warning: To load an ES module, set "type": "module" in the package.json or use the .mjs extension.
+(Use `node --trace-warnings ...` to show where the warning was created)
+/Users/AfoDy/Desktop/FRONT END PROJECTS/week10-assignment/RESOURCES/script.js:1
+import { getComputerChoice } from "./getComputerChoice.js";
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+[90m    at internalCompileFunction (node:internal/vm:73:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1178:20)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1220:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1119:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:960:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.17.1
+[1m[7m%[27m[1m[0m                                                                                                                                       [0m[27m[24m[Juser@AfoDy-2 RESOURCES % [K[?2004hggit status[?2004l
+On branch development
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   script.js[m
+	[31mmodified:   style.css[m
+	[31mmodified:   typescript[m
+	[31mmodified:   ../index.html[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mgameRule.js[m
+	[31mgetComputerChoice.js[m
+	[31mgetUserChoice.js[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[1m[7m%[27m[1m[0m                                                                                                                                       [0m[27m[24m[Juser@AfoDy-2 RESOURCES % [K[?2004hggit add .[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                       [0m[27m[24m[Juser@AfoDy-2 RESOURCES % [K[?2004hggit commit -m "refactor javascript fi             functions and split them into files linking them using modules"[?2004l
+[development dc3c3a6] refactor functions and split them into files linking them using modules
+ 6 files changed, 182 insertions(+), 122 deletions(-)
+ create mode 100644 RESOURCES/gameRule.js
+ create mode 100644 RESOURCES/getComputerChoice.js
+ create mode 100644 RESOURCES/getUserChoice.js
+ rewrite RESOURCES/script.js (68%)
+[1m[7m%[27m[1m[0m                                                                                                                                       [0m[27m[24m[Juser@AfoDy-2 RESOURCES % [K[?2004hggit status[?2004l
+On branch development
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   typescript[m
+	[31mmodified:   ../index.html[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[1m[7m%[27m[1m[0m                                                                                                                                       [0m[27m[24m[Juser@AfoDy-2 RESOURCES % [K[?2004hnnode script[?2004l
+(node:7890) Warning: To load an ES module, set "type": "module" in the package.json or use the .mjs extension.
+(Use `node --trace-warnings ...` to show where the warning was created)
+/Users/AfoDy/Desktop/FRONT END PROJECTS/week10-assignment/RESOURCES/script.js:1
+import gameRule from "./gameRule.js";
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+[90m    at internalCompileFunction (node:internal/vm:73:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1178:20)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1220:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1119:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:960:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.17.1
+[1m[7m%[27m[1m[0m                                                                                                                                       [0m[27m[24m[Juser@AfoDy-2 RESOURCES % [K[?2004hcclear[?2004l
+[H[2J[1m[7m%[27m[1m[0m                                                                                                                                       [0m[27m[24m[Juser@AfoDy-2 RESOURCES % [K[?2004hnnode script[?2004l
+(node:7918) Warning: To load an ES module, set "type": "module" in the package.json or use the .mjs extension.
+(Use `node --trace-warnings ...` to show where the warning was created)
+/Users/AfoDy/Desktop/FRONT END PROJECTS/week10-assignment/RESOURCES/script.js:2
+import gameRule from "./gameRule.js";
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+[90m    at internalCompileFunction (node:internal/vm:73:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1178:20)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1220:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1119:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:960:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.17.1
+[1m[7m%[27m[1m[0m                                                                                                                                       [0m[27m[24m[Juser@AfoDy-2 RESOURCES % [K[?2004hnnode script[?2004l
+(node:8055) Warning: To load an ES module, set "type": "module" in the package.json or use the .mjs extension.
+(Use `node --trace-warnings ...` to show where the warning was created)
+/Users/AfoDy/Desktop/FRONT END PROJECTS/week10-assignment/RESOURCES/script.js:2
+import gameRule from "./gameRule.js";
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+[90m    at internalCompileFunction (node:internal/vm:73:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1178:20)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1220:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1119:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:960:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.17.1
+[1m[7m%[27m[1m[0m                                                                                                                                       [0m[27m[24m[Juser@AfoDy-2 RESOURCES % [K[?2004hcclear
